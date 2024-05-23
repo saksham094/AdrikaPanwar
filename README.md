@@ -9,8 +9,6 @@
 
 - 👯 I’m open to collaborating **on the new projects**
 
-- 🤝 You can contact me at **adrikapanwar2004@gmail.com**
-
 - 👨‍💻 Recently I earned Prompt Engineering Certificate [https://learn.deeplearning.ai/accomplishments/b1913e82-6f70-47d0-bebe-cb0648a9e5dc?usp=sharing](https://learn.deeplearning.ai/accomplishments/b1913e82-6f70-47d0-bebe-cb0648a9e5dc?usp=sharing)
 
 - 💬 Ummm! you can ask me about **Python and Django easily because I love to eat it.**
